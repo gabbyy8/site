@@ -1,0 +1,144 @@
+
+.whole {
+    max-width: 1100px;
+}
+
+body {
+    background-color: #cef3d1;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+
+header {
+    background-color: #8fce00;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+    font-size: 30px;
+    width: 1500px;
+}
+
+.competition {
+    float: right;
+    width: 100px;
+}
+
+
+
+li {
+        text-align: left;
+        font-size: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        font-family: 'Patrick Hand', cursive;
+        padding-bottom: 10px;
+   }
+
+ .slime {
+    height: 250px;
+    width: 250px;
+    float: right;
+ }
+
+ .logo {
+    height: 300px;
+    width: 370px;
+    float: left;  
+ }
+
+.me {
+    float: left;
+    height: 300px;
+    width: 400px;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+
+}
+
+.img {
+    float: left;
+    height: 300px;
+    width: 400px;
+    padding-left: 100px;
+}
+
+.business {
+    margin: 100px;
+    text-align: left;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 26px;
+
+
+}
+
+.monopoly {
+    width: 400px;
+    height: 300px;
+
+}
+
+.oligopoly {
+    width: 400px;
+    height: 230px;
+}
+
+.nick {
+    width: 300px;
+    height: 200px;
+
+}
+
+.putty {
+    width: 400px;
+    height: 300px;
+}
+
+.dope {
+    width: 300px;
+    height: 300px;
+}
+
+
+footer{
+    background-color: #8fce00;
+    text-align: center;
+    padding: 30px;
+    width: 1500px;
+}
+
+.home {
+    text-align: left;
+}
+
+.comp {
+    text-align: right;
+}
+
+.statement {
+    text-align: left;
+    max-width: 400px;
+}
+
+.about {
+    max-width: 400px;
+    font-size: 19px;
+    padding: 10px;
+}
+
+figcaption {
+    max-width: 400px;
+}
+
+.fb {
+width: 200px;
+height: 200px;
+float: left;
+margin-left: 100px;
+}
+
+.big {
+    float: right;
+    width: 500px;
+    height: 500px;
+}
